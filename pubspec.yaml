@@ -1,0 +1,8 @@
+name: prompter_sg
+version: 0.0.1
+description: Library to create CLI widgets
+author: Manmeet Kaur<Manmeetkaur18102000@gmailcom>
+homepage: https://www.google.com
+
+environment:
+  sdk: '<3.0.0'
